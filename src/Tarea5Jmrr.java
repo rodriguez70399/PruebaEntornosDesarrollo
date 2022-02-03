@@ -17,7 +17,7 @@ public class Tarea5Jmrr {
         selectionSort.printArray(array3);
     }
 
-    //Prueba 1
+    //Prueba 2
 
     public static int ej1(int a, int b, int c) {
         int x = 5;
