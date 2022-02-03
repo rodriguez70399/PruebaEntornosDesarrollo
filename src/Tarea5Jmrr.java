@@ -17,6 +17,8 @@ public class Tarea5Jmrr {
         selectionSort.printArray(array3);
     }
 
+    //Prueba 1
+
     public static int ej1(int a, int b, int c) {
         int x = 5;
         if ((a > 1) && (b > 5) && (c < 2))
